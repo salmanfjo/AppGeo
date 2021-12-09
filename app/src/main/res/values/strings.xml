@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppGeo</string>
+    <string name="tapez_la_ville">tapez la ville</string>
+    <string name="ok_button">OK</string>
+</resources>
